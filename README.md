@@ -1,2 +1,2 @@
 # rgb
-uhh thingy
+arduino thingy
